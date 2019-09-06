@@ -1,0 +1,40 @@
+p
+{
+	color: red;
+	font-size: 20px;
+}
+#div1
+{
+	color: red;
+	width:1000px;
+	height:150px;
+	margin: 0 auto 10px auto;
+	border: solid 20px #ccc;
+	border-radius: 50px;
+	background-color:orange;
+
+	text-align:center;
+	font-style:italic;
+	font-size: 20px;
+}
+#div3
+{
+	border: solid 20px #ccc;
+	border-radius: 50px;
+	background-color:orange;
+}
+#d31
+{
+background-color:blue;
+text-align:left;
+width:150px;
+
+}
+#d32
+{
+margin: -110 auto 10px auto;
+background-color:blue;
+text-align:right;
+width:150px;
+
+}
